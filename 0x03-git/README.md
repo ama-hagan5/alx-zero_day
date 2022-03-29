@@ -1,1 +1,1 @@
-My special readme
+ALX is the best software engineering school.
